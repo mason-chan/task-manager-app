@@ -2,6 +2,8 @@
 
 A simple task manager app
 
+[View live here!](https://mctekno.github.io/task-manager-app/)
+
 ## Details
 
 This was the final group project for the web developer program at Generation USA. By combining all the things we learned throughout the course, we were tasked to create a task manager app using pure HTML/JavaScript and utilzing Bootstrap and its classes to style the page. My group and I went through the multiple steps when it comes to designing and developing a webpage/app, from wireframing to implementation. The goal was to create a simple CRUD app that also stored the data locally so the information would still be present for the specific user visiting the page.

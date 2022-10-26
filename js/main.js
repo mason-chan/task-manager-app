@@ -97,7 +97,7 @@ function renderCards() {
     if (lists.length === 0) {
         const noCard = document.createElement('div');
         const html = `<h6 class="text-center text-secondary py-5">Nothing to see here...</h6>
-        <img src="/undraw_online_organizer_re_156n.svg" class="w-50 py-1">`
+        <img src="undraw_online_organizer_re_156n.svg" class="w-50 py-1">`
         noCard.classList.add('d-flex', 'flex-column', 'align-items-center', 'justify-content-center')
         noCard.innerHTML = html;
         cardContainer.appendChild(noCard)

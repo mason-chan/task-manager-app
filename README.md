@@ -2,7 +2,7 @@
 
 A simple task manager app
 
-[View live here!](https://mctekno.github.io/task-manager-app/)
+[View live here!](https://mason-chan.github.io/task-manager-app/)
 
 ![task-manager-app](img/app.png?raw=true)
 
